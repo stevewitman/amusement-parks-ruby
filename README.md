@@ -1,6 +1,6 @@
 # Indexing
 
-You work for a very tourism agency, and your job is to promote amusement parks.  You have been given a list of amusement
+You work for a tourism agency, and your job is to promote amusement parks.  You have been given a list of amusement
 parks and you need to write code to help organize the data.
 
 Your mission, should you choose to accept it, is to group amusement parks by
